@@ -29,5 +29,8 @@
   "bugs": {
     "url": "https://github.com/Chamberezigbo/sql-functions-kit/issues"
   },
-  "homepage": "https://github.com/Chamberezigbo/sql-functions-kit#readme"
+  "homepage": "https://github.com/Chamberezigbo/sql-functions-kit#readme",
+  "dependencies": {
+    "mysql2": "^3.6.5"
+  }
 }
