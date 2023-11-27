@@ -1,0 +1,33 @@
+{
+  "name": "sql-functions-kit",
+  "version": "1.0.0",
+  "description": "A versatile and lightweight npm package providing essential SQL functions for Node.js applications.",
+  "main": "sqlFunctionsKit.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chamberezigbo/sql-functions-kit.git"
+  },
+  "keywords": [
+    "mysql",
+    "sql",
+    "database",
+    "pdo",
+    "functions",
+    "query",
+    "utility",
+    "node",
+    "npm",
+    "data",
+    "database-access",
+    "sql-operations"
+  ],
+  "author": "Chamberezigbo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chamberezigbo/sql-functions-kit/issues"
+  },
+  "homepage": "https://github.com/Chamberezigbo/sql-functions-kit#readme"
+}
