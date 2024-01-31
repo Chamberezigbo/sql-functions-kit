@@ -11,8 +11,9 @@ A versatile and lightweight npm package providing essential SQL functions for No
 
 ```bash
 npm install sql-functions-kit
+```
 
-Usage
+### Usage
 
 ```javascript
 // Your JavaScript code here
@@ -50,10 +51,11 @@ const deletedRows = sqlFunctionsKit.remove('DELETE FROM your_table WHERE id = ?'
 console.log('Deleted Rows:', deletedRows);
 
 // Close the connection when done
-sqlFunctionsKit.closeConnection(connection);```
+sqlFunctionsKit.closeConnection(connection);
+```
 
+### API
 
-API
 `connect(config: object): Connection`
 Connects to the MySQL database using the provided configuration.
 
